@@ -3,7 +3,7 @@
 I am Pawan, cncf mentee, PostmanApi student expert. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-pawan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/pawan-s/)](https://www.linkedin.com/in/pawan-s/)
-[![Hashnode Badge](https://img.shields.io/badge/-@kaiwalyakoparkar-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://kaiwalyakoparkar.hashnode.dev/)](https://kaiwalyakoparkar.hashnode.dev/)
+[![Hashnode Badge](https://img.shields.io/badge/-@pawan-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://pawanblog.hashnode.dev/)](https://pawanblog.hashnode.dev/)
 [![Gmail Badge](https://img.shields.io/badge/-spavandsp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spavandsp@gmail.com)](mailto:spavandsp@gmail.com)
 [![Portfolio Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=BioLink&logoColor=white&link=https:/pawans.bio.link/)](https://pawans.bio.link/)
 
