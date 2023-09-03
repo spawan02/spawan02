@@ -1,6 +1,6 @@
 ## Hi, I am Pawan! Great to see you here! 👋
 
-I am Pawan, cncf mentee, PostmanApi student expert. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Pawan, CNCF mentee, and PostmanApi student expert. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-pawan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/pawan-s/)](https://www.linkedin.com/in/pawan-s/)
 [![Hashnode Badge](https://img.shields.io/badge/-@pawan-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://pawanblog.hashnode.dev/)](https://pawanblog.hashnode.dev/)
@@ -43,8 +43,6 @@ I am Pawan, cncf mentee, PostmanApi student expert. I am a tech enthusiast. I am
 
 ## 📈 Stats
 <p align="center">
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=spawan02&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=spawan02&theme=tokyonight" />
 </p>
 <!--
