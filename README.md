@@ -7,7 +7,7 @@ I am Pawan, CNCF mentee, and PostmanApi student expert. I am a tech enthusiast. 
 [![Gmail Badge](https://img.shields.io/badge/-spavandsp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spavandsp@gmail.com)](mailto:spavandsp@gmail.com)
 [![Portfolio Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=BioLink&logoColor=white&link=https:/pawans.bio.link/)](https://pawans.bio.link/)
 
-[![Pawan github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=spawan02&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[comment]:[![Pawan github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=spawan02&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ⚡ Technologies
 
